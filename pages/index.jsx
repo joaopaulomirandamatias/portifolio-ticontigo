@@ -17,7 +17,7 @@ export default function Home() {
   }, [])
 
   return (
-    <div className="flex flex-row min-h-screen ">
+    <div className="flex flex-row min-h-screen overflow-hidden">
       <Head>
         <title>Portifólio | João Paulo</title>
         <link rel="icon" href="/favicon.ico" />
