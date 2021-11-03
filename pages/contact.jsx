@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Aside from './components/aside'
 import PageName from './components/pageName'
-import Image from 'next/image'
 
 function Contact() {
   return (
